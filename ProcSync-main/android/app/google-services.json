@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895055744032",
+    "project_id": "procsync",
+    "storage_bucket": "procsync.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895055744032:android:fe1227e7c56287093fc045",
+        "android_client_info": {
+          "package_name": "com.procsync.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895055744032-6jsbjihv1n1s454k4gdlh8bg1rjo4h8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.procsync.app",
+            "certificate_hash": "61c9f0d8537c011edc68d1d371b11419bbe3ea31"
+          }
+        },
+        {
+          "client_id": "895055744032-d32ki3kcrtc7rd8ajuu7eheaeddgkd6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5hnwMfL4jE83AdfNlgz4mqGd1JvVFtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895055744032-d32ki3kcrtc7rd8ajuu7eheaeddgkd6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
